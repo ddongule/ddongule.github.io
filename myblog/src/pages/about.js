@@ -5,7 +5,7 @@ export default ({ data }) => (
     <Layout>
         <h1> About {data.site.siteMetadata.title} </h1>    
         <p>
-            오홍홍
+            리액트를 공부하는 중이다. 열심히 공부해야지.
         </p>
     </Layout>
 )
