@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[5],{58:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/15MinsRetrospecitve.d3bf9090.md"}}]);
+//# sourceMappingURL=5.52171c5a.chunk.js.map
